@@ -1,6 +1,8 @@
 ;;Domain template 1 for cleaning floor regions
 ;; A domain file for CMP2020M assignment 2017/2018
 
+;; By Mitch Durso DUR16610086
+
 ;; Define the name for this domain (needs to match the domain definition
 ;; in the problem files)
 
@@ -102,3 +104,12 @@
   )
  )
 )
+;; Refrences
+
+;;Helmert, M., 2018. introtopddl2.pdf. [Online]
+;;Available at: http://www.cs.toronto.edu/~sheila/2542/s14/A1/introtopddl2.pdf
+;;[Accessed 20 April 2018].
+
+;;Yu, M., 2018. CMP2020 10 Planning 2.pdf. [Online]
+;;Available at: https://blackboard.lincoln.ac.uk/bbcswebdav/pid-1784863-dt-content-rid-3282946_2/xid-3282946_2
+;;[Accessed 12 April 2018].
